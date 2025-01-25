@@ -105,4 +105,3 @@ if __name__ =='__main__':
     main()
     
         
-# streamlit run "D:\DataAnalyst\Sankhyana Consultancy\Exams\Final Project\BCP_web_app_1.py"

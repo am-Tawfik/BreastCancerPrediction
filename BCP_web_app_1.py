@@ -15,7 +15,7 @@ import streamlit as st
 import requests
 
 # load the .sav model from github
-url = 'https://github.com/am-Tawfik/SankhyanaProject/raw/refs/heads/main/trained_logistic_model.sav'
+url = 'https://github.com/am-Tawfik/BreastCancerPrediction/raw/refs/heads/main/trained_logistic_model.sav'
 
 # download the file
 model = requests.get(url)
